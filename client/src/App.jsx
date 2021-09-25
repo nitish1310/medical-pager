@@ -16,7 +16,7 @@ const App = () => {
         <ChanellListContainer />
         <ChannelContainer />
       </Chat>
-      <h1>Medical Pager Chap Application</h1>
+      <h1>Medical Pager Chat Application</h1>
     </div>
   );
 };
